@@ -10,6 +10,8 @@ To use these components in your FramerX projects you must open a new framer proj
 npm install styled-components
 ```
 
+Copy the code from the desired component that you would like in your project and paste it into the file code component file that you created in the FramerX component interface
+
 ## Components
 
 ![alt text](images/VaporDesignComponents.png)

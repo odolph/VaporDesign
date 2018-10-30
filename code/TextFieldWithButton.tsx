@@ -45,6 +45,7 @@ const SendButton = styled.button`
 `;
 // Define type of property
 interface Props {
+    
   text: string;
 }
 
