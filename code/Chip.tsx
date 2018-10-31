@@ -40,8 +40,6 @@ const StyledText = styled.span`
     props.type == "primary" &&
     css`
       color: white;
-      background-color: #3c96f5;
-      box-shadow: 0 6px 8px rgba(0, 0, 0, 0.12);
     `};
   ${props =>
     props.type == "secondary" &&
